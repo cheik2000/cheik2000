@@ -1,16 +1,16 @@
-### Hi there 👋
+## About me
+Hi there 👋
+I am Cheik Parfait Nacro, a Geomatics for Natural Ressource engineering student at National School for Forestry Engineering - Morocco!
+<details>
+<summary>Personnal projects</summary>
 
-<!--
-**cheik2000/cheik2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Projects | Technologies used |
+|:-------:|-------|
+|A web application to manage wildfire in Forest sectors|Django, HTML5, CSS3, Javascript, PostgreSQL|
+|[A webGIS application for RIF-forests wildfire data analysis](https://github.com/cheik2000/ProjetApplicationSIGWEB.git)|GeoDjango, HTML, CSS, Leaflet, plotly, PostGIS|
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- TO DO: add more details about me later -->
